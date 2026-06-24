@@ -1,0 +1,2 @@
+# escutinha
+ffmpeg e pythons
